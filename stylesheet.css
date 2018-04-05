@@ -4,6 +4,10 @@ body {
     width: 60%;
 }
 
+#section {
+    height: 800px;
+}
+
 .skillbar {
     position: relative;
     display: block;
